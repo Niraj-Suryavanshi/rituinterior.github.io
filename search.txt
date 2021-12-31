@@ -1,0 +1,236 @@
+html
+							if(isset($_POST['sub']))
+							{
+								$str=$_POST['Search'];
+		  
+								$a=strcmp($str, about );
+							 
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+								 $a=strcmp($str, about us );
+							 
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+								 $a=strcmp($str, About );
+							 
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+								$a=strcmp($str, About us );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+
+								$a=strcmp($str, gallery );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='gallery.html';script;
+								}
+
+								 $a=strcmp($str, Gallary );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='gallery.html';script;
+								}
+
+								$a=strcmp($str, portfolio );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='gallery.html';script;
+								}
+
+								$a=strcmp($str, portfolio );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='gallary.html';script;
+								}
+
+								$a=strcmp($str, mail );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, contact );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+
+								 $a=strcmp($str, address );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								 $a=strcmp($str, enquiry );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, Address );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, services );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='services.html';script;
+								}
+
+								$a=strcmp($str, clients );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='index.html';script;
+								}
+
+								$a=strcmp($str, client );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='index.html';script;
+								}
+
+								$a=strcmp($str, Clients );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='index.html';script;
+								}
+
+								$a=strcmp($str, email );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, gmail );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, mail );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, contact );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, features );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='index.html';script;
+								}
+
+								 $a=strcmp($str, profile );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+
+								 $a=strcmp($str, profile );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+
+								 $a=strcmp($str, team );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='about.html';script;
+								}
+
+								 $a=strcmp($str, advantage );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='services.html';script;
+								}
+
+								$a=strcmp($str, newsletter );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, map );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, broucher );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='codes.html';script;
+								}
+
+								$a=strcmp($str, pdf );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='codes.html';script;
+								}
+
+								$a=strcmp($str, catalogue );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='codes.html';script;
+								}
+
+								$a=strcmp($str, info );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='codes.html';script;
+								}
+
+								$a=strcmp($str, Enquiry );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+								$a=strcmp($str, slides );
+
+								if($a==0)
+								{
+									echo scriptwindow.location.href='index.html';script;
+								}
+
+								$a=strcmp($str, slider );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='index.html';script;
+								}
+
+								 $a=strcmp($str, google map );
+								if($a==0)
+								{
+									echo scriptwindow.location.href='mail.html';script;
+								}
+
+
+
+
+
+
+
+
+
+
+						  }
+							  
+
+								
